@@ -12,6 +12,7 @@
 #include "Binary_tree.hpp"
 #include "KMP.hpp"
 #include "DailyAlgorithm.hpp"
+#include "Permutation.hpp"
 using namespace std;
 
 int main(int argc, const char * argv[]) {
@@ -45,6 +46,7 @@ int main(int argc, const char * argv[]) {
 //    BiTree * root;
 //    creatBST(&root);
 //    preface_traverse(root);
-    
+    char data[5] = "abcd";
+    Permutation(data);
     return 0;
 }
