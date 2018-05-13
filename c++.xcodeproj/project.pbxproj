@@ -13,6 +13,7 @@
 		D91EC03A207F3DEB00B4D2B7 /* Binary_tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D91EC038207F3DEB00B4D2B7 /* Binary_tree.cpp */; };
 		D93DF484208B73F400CDB3C5 /* DailyAlgorithm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D93DF482208B73F400CDB3C5 /* DailyAlgorithm.cpp */; };
 		D97ADC0F20839553007A6F5C /* KMP.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D97ADC0D20839553007A6F5C /* KMP.cpp */; };
+		D9A29A7D20A8794200A15CAC /* Permutation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D9A29A7B20A8794200A15CAC /* Permutation.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +41,8 @@
 		D93DF483208B73F400CDB3C5 /* DailyAlgorithm.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DailyAlgorithm.hpp; sourceTree = "<group>"; };
 		D97ADC0D20839553007A6F5C /* KMP.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = KMP.cpp; sourceTree = "<group>"; };
 		D97ADC0E20839553007A6F5C /* KMP.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = KMP.hpp; sourceTree = "<group>"; };
+		D9A29A7B20A8794200A15CAC /* Permutation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Permutation.cpp; sourceTree = "<group>"; };
+		D9A29A7C20A8794200A15CAC /* Permutation.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Permutation.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +133,8 @@
 		D97ADC1020839CD7007A6F5C /* 全排列 */ = {
 			isa = PBXGroup;
 			children = (
+				D9A29A7B20A8794200A15CAC /* Permutation.cpp */,
+				D9A29A7C20A8794200A15CAC /* Permutation.hpp */,
 			);
 			path = "全排列";
 			sourceTree = "<group>";
@@ -202,6 +207,7 @@
 				D91EC03A207F3DEB00B4D2B7 /* Binary_tree.cpp in Sources */,
 				D93DF484208B73F400CDB3C5 /* DailyAlgorithm.cpp in Sources */,
 				D97ADC0F20839553007A6F5C /* KMP.cpp in Sources */,
+				D9A29A7D20A8794200A15CAC /* Permutation.cpp in Sources */,
 				695B26DF1E66FCCB00E1CCC5 /* main.cpp in Sources */,
 				D9072B6E207E67A90090041F /* SortFile.cpp in Sources */,
 				D91EC036207F1A0700B4D2B7 /* Dynamic_programming.cpp in Sources */,
