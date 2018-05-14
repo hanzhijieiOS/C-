@@ -20,7 +20,6 @@ void Permutation(char * str, char * pBegin){
             swap(*ch, *pBegin);
         }
     }
-    
 }
 
 void Permutation(char * str){
